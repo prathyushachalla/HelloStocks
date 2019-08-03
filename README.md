@@ -18,7 +18,7 @@ Predicted 30 trading days and compared to the real prices
 Simulations for each model ran over 200 times. Took the average of all simulations for the visualization
 
 Tools used:
- Excel
- Pandas
- Matplotlib
+ Excel,
+ Pandas,
+ Matplotlib,
  Tableau
